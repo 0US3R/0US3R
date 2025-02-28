@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @0US3R
-- 👀 I’m interested in golang, cloud, big-data
-- 🌱 I’m currently learning pyspark
+- 👀 I’m interested in golang, kubernetes, big-data
+- 🌱 I’m currently learning apache camel k 
